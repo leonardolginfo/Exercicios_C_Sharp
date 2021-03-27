@@ -1,49 +1,66 @@
-﻿using System;
+using System;
 
-namespace cursoCSharp
+namespace GotoCidade
 {
     class Program
     {
+
+       
         static void Main(string[] args)
         {
-            int nota1, nota2, nota3, nota4, res;
-            
-                    
-                      
-            Console.Write("Digite a nota do aluno...: ");
 
-            nota1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Nota 1 :" + nota1);
+            string nome;
+            char escolha;
 
-            Console.Write("Digite a nota do aluno...: ");
-            nota2 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Nota 2 :" + nota2);
+            Console.Write("Olá! Qual é seu nome? ");
+            Console.WriteLine();
+            nome = Console.ReadLine();
+            Console.WriteLine();
 
-            Console.Write("Digite a nota do aluno...: ");
-            nota3 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Nota 3 :" + nota3);
+            inicio: //Rótulo para o GoTo
 
-            Console.Write("Digite a nota do aluno...: ");
-            nota4 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Nota 4 :" + nota4);
+            Console.Clear();
 
-            res = nota1 + nota2 + nota3 + nota4;
-            float media = res / 4;
+            Console.Write("Olá {0}! Estou a disposição para ajudar na esolha da capital, vamos lá ?", nome);
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Você gostaria de qual é a capital de qual estado:");
+            Console.WriteLine();
+            Console.WriteLine("[P]- Piauí  | [M]- Maranhão  |  [C] - Ceará ");
 
-          
-            
-            if (media >=70)
+            escolha = char.Parse(Console.ReadLine().ToUpper());
+             
+            switch (escolha)
                 {
-                    Console.WriteLine("O aluno está com média {0} e seu status é de APROVADO", media);
-                }else if(media >= 5)
-                {
-                Console.WriteLine("O aluno está com média {0} e seu status é de recuperação", media);
+                case 'P':
+                    Console.WriteLine("A capital do Piauí é Teresina.");
+                    break;
+                case 'M':
+                    Console.WriteLine("A capital do Maranhão é São Luiz.");
+                    break;
+                case 'C':
+                    Console.WriteLine("A capital do Ceará é Fortaleza.");
+                    break;
+                default:
+                    Console.WriteLine("Você não digitou uma opção válida!");
+                    break;
+                }
+            Console.WriteLine("Você deseja conhecer outra capital? [S/N] ");
+            escolha = char.Parse(Console.ReadLine().ToUpper());
+
+            if (escolha == 'S')
+            {
+                goto inicio;
             }
             else
             {
-                Console.WriteLine ("O aluno está com média {0} e seu status é de reprovado", media);
-            }
+                Console.Clear();
+                Console.WriteLine("----------------");
+                Console.WriteLine("Fim de programa!");
+                Console.WriteLine("----------------");
+                Console.ReadKey();
 
-                    }
+            }
+        }
     }
 }
