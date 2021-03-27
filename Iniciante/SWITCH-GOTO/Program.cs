@@ -1,3 +1,13 @@
+/*
+
+Exercitando c#
+
+Código para ler o nome do usuário e cumprimentar.
+Oferecer escohas e retornar a capital de acordo com a escolha SWITCH
+Também foi usado o GoTo para iniciar ou finalizar a aplicação
+
+*/
+
 using System;
 
 namespace GotoCidade
