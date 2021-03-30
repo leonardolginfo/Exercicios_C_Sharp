@@ -1,1 +1,1 @@
-#Receber duas notas e calcular média
+# Receber duas notas e calcular média
