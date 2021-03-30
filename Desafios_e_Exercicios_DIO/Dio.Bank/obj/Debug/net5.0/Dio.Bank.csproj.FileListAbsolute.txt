@@ -1,0 +1,16 @@
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csprojAssemblyReference.cache
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\Dio.Bank.GeneratedMSBuildEditorConfig.editorconfig
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfoInputs.cache
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\Dio.Bank.AssemblyInfo.cs
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\Dio.Bank.csproj.CoreCompileInputs.cache
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\bin\Debug\net5.0\Dio.Bank.exe
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\bin\Debug\net5.0\Dio.Bank.deps.json
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.json
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\bin\Debug\net5.0\Dio.Bank.runtimeconfig.dev.json
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\bin\Debug\net5.0\Dio.Bank.dll
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\bin\Debug\net5.0\ref\Dio.Bank.dll
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\bin\Debug\net5.0\Dio.Bank.pdb
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\Dio.Bank.dll
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\ref\Dio.Bank.dll
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\Dio.Bank.pdb
+F:\ESTUDO DEV\DIOn\Criando uma aplicação de transferências bancárias com .NET\Diobank\Dio.Bank\obj\Debug\net5.0\Dio.Bank.genruntimeconfig.cache
